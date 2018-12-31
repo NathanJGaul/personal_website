@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://zen-franklin-18e16f.netlify.com/* https://www.nathanjgaul.com/:splat 301!
